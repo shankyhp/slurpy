@@ -34,5 +34,7 @@ Slurpy-A Can Drink is a modern, interactive landing page website designed for a 
 
 **🔧 Zustand:** Manages application state efficiently in the mobile application
 
+**🔌 clsx: Simplifies dynamic className management for conditional styling.
+
 **📊 r3f-perf:** Monitors performance in real-time for optimal user experience.
 
